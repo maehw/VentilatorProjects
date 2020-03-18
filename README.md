@@ -22,3 +22,6 @@ List of DIY, low resource, low cost ventilator projects (to be continued)
 
 ## Rice University (2019)
 [Student invention gives patients the breath of life](https://news.rice.edu/2019/05/01/student-invention-gives-patients-the-breath-of-life-2/)
+
+## Pandemic Ventilator Project, PvP (2007)
+* [Blog](https://panvent.blogspot.com/)
