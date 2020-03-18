@@ -1,8 +1,12 @@
 # Ventilator Projects
 List of DIY, low resource, low cost ventilator projects (to be continued)
 
-## Ventilators | Coronavirus Tech Handbook
+## Ventilators | Coronavirus Tech Handbook (2020)
 * [Google Docs document](https://coronavirustechhandbook.com/ventilators)
+
+## OpenRespirator (2020)
+* [github](https://github.com/brentjackson/OpenRespirator)
+* [github wiki](https://github.com/brentjackson/OpenRespirator/wiki)
 
 ## Low-Cost Open-Source Ventilator-ish Device (2020)
 * [github](https://github.com/jcl5m1/ventilator)
