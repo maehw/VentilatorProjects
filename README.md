@@ -25,6 +25,8 @@ List of DIY, low resource, low cost ventilator projects (to be continued)
 
 ## MIT: Design and Prototyping of a Low-cost Portable Mechanical Ventilator (2010)
 * [research paper](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf)
+* [MIT news](http://news.mit.edu/2010/itw-ventilator-0715)
 
-## Pandemic Ventilator Project, PvP (2007)
+## Pandemic Ventilator Project, PvP (2007-2020)
 * [Blog](https://panvent.blogspot.com/)
+* [Instructables "The Pandemic Ventilator"](https://www.instructables.com/id/The-Pandemic-Ventilator/)
