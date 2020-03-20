@@ -1,5 +1,8 @@
 # Ventilator Projects
-List of DIY, low resource, low cost ventilator projects (to be continued)
+List of DIY, low resource, low cost ventilator projects (to be continued).
+
+## Open Source COVID19 Medical Supplies
+* [facebook group](https://www.facebook.com/groups/opensourcecovid19medicalsupplies/?ref=group_header)
 
 ## Ventilators | Coronavirus Tech Handbook (2020)
 * [Google Docs document](https://coronavirustechhandbook.com/ventilators)
