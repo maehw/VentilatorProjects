@@ -1,7 +1,12 @@
 # Ventilator Projects
 List of DIY, low resource, low cost ventilator projects (to be continued).
 
-## Open Source COVID19 Medical Supplies
+## German Hackathon WirVsVirus (2020)
+* has project groups working on the topic
+* [homepage](https://wirvsvirushackathon.org/)
+* [twitter @WirvsVirusHack](https://twitter.com/WirvsVirusHack)
+
+## Open Source COVID19 Medical Supplies (2020)
 * [facebook group](https://www.facebook.com/groups/opensourcecovid19medicalsupplies/?ref=group_header)
 
 ## Ventilators | Coronavirus Tech Handbook (2020)
