@@ -27,10 +27,15 @@ No details?
 ## Open Source Ventilator Ireland (2020)
 * low-resource Field Emergency Ventilator (FEV) 
 * uses Bag Valve Mask (BVM) [wikipedia](https://en.wikipedia.org/wiki/Bag_valve_mask)
+* the current focus seems to be on the mechanical part
 * [Homepage](https://opensourceventilator.ie/)
 * [Twitter @OSVentilator](https://twitter.com/OSVentilator)
 * [gitlab Open Source Ventilator - OpenLung BVM Ventilator](https://gitlab.com/TrevorSmale/OSV-OpenLung)
 * [Slack](https://osventilator.slack.com)
+
+## ermtl/Open-Source-Ventilator (2020)
+* with a focus on electronics/hardware + software
+* [github](https://github.com/ermtl/Open-Source-Ventilator)
 
 ## Rice University (2019)
 [Student invention gives patients the breath of life](https://news.rice.edu/2019/05/01/student-invention-gives-patients-the-breath-of-life-2/)
