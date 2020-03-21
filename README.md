@@ -34,8 +34,9 @@ No details?
 * [Slack](https://osventilator.slack.com)
 
 ## ermtl/Open-Source-Ventilator (2020)
-* with a focus on electronics/hardware + software
+* with a focus on electronics/hardware + software; user interface + control
 * [github](https://github.com/ermtl/Open-Source-Ventilator)
+* [YouTube demo video](https://www.youtube.com/watch?feature=player_embedded&v=izh4YnG1fPI)
 
 ## Rice University (2019)
 [Student invention gives patients the breath of life](https://news.rice.edu/2019/05/01/student-invention-gives-patients-the-breath-of-life-2/)
