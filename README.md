@@ -10,7 +10,8 @@ List of DIY, low resource, low cost ventilator projects (to be continued).
 * [facebook group](https://www.facebook.com/groups/opensourcecovid19medicalsupplies/?ref=group_header)
 
 ## Ventilators | Coronavirus Tech Handbook (2020)
-* [Google Docs document](https://coronavirustechhandbook.com/ventilators)
+* [Google Docs document - main document](https://coronavirustechhandbook.com/home)
+* [Google Docs document - about ventilators](https://coronavirustechhandbook.com/ventilators)
 
 ## OpenRespirator (2020)
 * [github](https://github.com/brentjackson/OpenRespirator)
@@ -20,9 +21,12 @@ List of DIY, low resource, low cost ventilator projects (to be continued).
 * [github](https://github.com/jcl5m1/ventilator)
 
 ## Project Open Air (2020)
+No details?
 * [Homepage](https://www.projectopenair.org/)
 
 ## Open Source Ventilator Ireland (2020)
+* low-resource Field Emergency Ventilator (FEV) 
+* uses Bag Valve Mask (BVM) [wikipedia](https://en.wikipedia.org/wiki/Bag_valve_mask)
 * [Homepage](https://opensourceventilator.ie/)
 * [Twitter @OSVentilator](https://twitter.com/OSVentilator)
 * [gitlab Open Source Ventilator - OpenLung BVM Ventilator](https://gitlab.com/TrevorSmale/OSV-OpenLung)
